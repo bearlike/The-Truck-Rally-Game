@@ -27,8 +27,8 @@ The Truck Rally is an endless running game developed in C++98 using the Graphic 
 )
 
 ## Screenshots
-<img src="/docs/images/1.jpg" width="204"/> <img src="/docs/images/2.jpg" width="204"/>
-<img src="/docs/images/3.jpg" width="204"/> <img src="/docs/images/4.jpg" width="204"/>
+<img src="/docs/images/1.jpg" width="400"/> <img src="/docs/images/2.jpg" width="400"/>
+<img src="/docs/images/3.jpg" width="400"/> <img src="/docs/images/4.jpg" width="400"/>
 
 
 ## Authors
