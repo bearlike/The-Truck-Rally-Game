@@ -23,7 +23,8 @@ The Truck Rally is an endless running game developed in C++98 using the Graphic 
   - Has an intro sound :)  
   - Saves the Player name and High Score in a file.
 
-[The Complete Report for this project can be found here]("/docs/Report.pdf")
+[The Complete Report for this project can be found here](https://github.com/KrishnaAlagiri/The-Truck-Rally-Game/blob/master/docs/Report.pdf
+)
 
 ## Screenshots
 <img src="/docs/images/1.jpg" width="204"/> <img src="/docs/images/2.jpg" width="204"/>
