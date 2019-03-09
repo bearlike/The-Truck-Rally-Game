@@ -15,13 +15,17 @@ See: [Using MagicISO to create floppy disk image](http://www.magiciso.com/tutori
 See: [Downloading Borland C++ 3.1](https://winworldpc.com/download/49068656-18DA-11E4-99E5-7054D21A8599)
 
 ## Descriptions
-### 1. `Game` The Truck Rally
+### `Game` The Truck Rally
 The Truck Rally is an endless running game developed in C++98 using the Graphic Library.
 - **Features**
-  - Simulates 2d effects from scratch.
+  - Simulates 2D effects from scratch.
   - The difficulty of the game would increase for completion of every 1000 points.
   - Has an intro sound :)  
   - Saves the Player name and High Score in a file.
+
+## Screenshots
+<img src="/docs/images/1.jpg" width="204"/> <img src="/docs/images/2.jpg" width="204"/>
+<img src="/docs/images/3.jpg" width="204"/> <img src="/docs/images/4.jpg" width="204"/>
 
 
 ## Authors
